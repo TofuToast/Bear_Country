@@ -1,0 +1,28 @@
+body {
+  display: flex;
+}
+section {
+  text-decoration: underline;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 100%;
+}
+body {
+  background-color: rgb(182, 216, 197);
+}
+ul {
+  list-style: square inside src= "";
+}
+nav {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  padding: 2px;
+  margin: 10px;
+  background-color: rgb(198, 211, 183);
+}
+nav li {
+  background-color: rgb(182, 214, 160);
+  padding-left: 10px;
+}
+
+align {
+  justify-content: flex-end;
+}
